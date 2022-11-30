@@ -1,5 +1,12 @@
 Just checking how git merge works!! ---> line 1 master
-line 2 master
+-- dev changes
 line 3 master
-line 4 master
+-- dev changes
 line 5 master
+
+line 1 dev
+line 2 dev
+line 3 dev
+line 4 dev
+line 5 dev
+line 6 dev
